@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="UiClone" src=".github/logo.png" width="100px" />
+  <img alt="UiClone" src=".github/logo.png" width="300px" />
 </h1>
   
 <h1 align="center">
